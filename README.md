@@ -11,7 +11,7 @@ using POST to simulate login process and providing simple operations
 License
 ------
 
-The MIT License (MIT)
+[The MIT License](http://james.mit-license.org/) (MIT)
 
 Copyright (c) 2014 James Liu
 
